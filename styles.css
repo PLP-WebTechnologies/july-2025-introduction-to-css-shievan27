@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding:0;
+    
+}
+
+h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: blueviolet;
+}
+
+.first-div{
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    height:50px;
+    width:200px;
+    margin-bottom: 20px;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border-color: black;
+
+}
+.first-div p{
+    font-size: 14px;
+    color: blueviolet;
+}
+.second-div{
+    background-color:aliceblue;
+    padding:10px 10px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.btn{
+    background-color: green;
+    border-radius: 20px;
+    border-color: black;
+    padding:20px 10px;
+    width: 100px;
+    height: 50px;
+}
